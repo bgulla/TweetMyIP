@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+FILE_PREPEND="data/"
 
 def getStringFromFile(filename):
 	val = ""
