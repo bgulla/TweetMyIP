@@ -23,3 +23,6 @@ except:
  print "Something went wrong: either your tweet was too long or you didn't pass in a string argument at launch."
 finally:
  print "Shutting down script..."
+
+
+# http://runnable.com/Us9rGCJY1zNWAAjr/how-to-use-tweepy-for-python
